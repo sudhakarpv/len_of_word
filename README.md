@@ -1,1 +1,0 @@
-# len_of_word
